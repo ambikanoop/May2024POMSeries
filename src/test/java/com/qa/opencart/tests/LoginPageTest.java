@@ -44,7 +44,7 @@ public class LoginPageTest extends BaseTest {
 		Assert.assertTrue(actURL.contains(AppConstants.LOGIN_PAGE_FRACTION_URL));
 	}
 
-	@Severity(SeverityLevel.CRITICAL)
+	//@Severity(SeverityLevel.CRITICAL)
 	@Description("login page forgot pwd link exist test....")
 	@Issue("Bug-123")
 	@Test

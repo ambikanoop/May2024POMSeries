@@ -1,3 +1,3 @@
-2025-10-26 18:14:55,089 INFO com.qa.opencart.logger.Log [TestNG-tests-1] Running tests on env:  null
-2025-10-26 18:14:55,098 WARN com.qa.opencart.logger.Log [TestNG-tests-1] env is null....hence running tests on QA env
-2025-10-26 18:14:55,101 INFO com.qa.opencart.logger.Log [TestNG-tests-1] Login Page Test and browser name is : chrome
+2025-10-26 19:54:58,653 INFO com.qa.opencart.logger.Log [TestNG-tests-1] Running tests on env:  null
+2025-10-26 19:54:58,659 WARN com.qa.opencart.logger.Log [TestNG-tests-1] env is null....hence running tests on QA env
+2025-10-26 19:54:58,662 INFO com.qa.opencart.logger.Log [TestNG-tests-1] Login Page Test and browser name is : chrome
